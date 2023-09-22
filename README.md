@@ -1,9 +1,14 @@
+# Simple Card Project
+
 ## Overview
 
-This project is a Simple Card made while following Gary Simon's course on scrimba: *'Figma to code'.*
-<br><br>
+This project demonstrates a Simple Card layout. It is inspired by Gary Simon's course on Scrimba, 'Figma to Code'.
 
-Things I have lernt from working on this project: <br>
+## Live Demo
 
-Basic ways of working with a Figma file. <br>
-Deploying to Netlify.
+[See Live Demo](https://sparkling-faun-2c9d3e.netlify.app/)
+
+## What I Learned
+
+- Basic techniques of working with a Figma file.
+- How to deploy a project on Netlify.
